@@ -1,7 +1,5 @@
 {
   "users" : [
-    { " id " : 1 , " username " : " asd ", " ci " : " 24123212 " },
-    { " id " : 2 , " title " : " Post 2 " },
-    { " id " : 3 , " title " : " Post 3 " }
+    { " id " : 1 , " username " : " asd ", " ci " : " 24123212 " }
   ]
 }
