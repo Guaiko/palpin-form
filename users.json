@@ -1,5 +1,9 @@
 {
   "users" : [
-    { " id " : 1 , " username " : " asd ", " ci " : " 24123212 " }
+    { 
+      " id " : 1 , 
+      " username " : " asd ", 
+      " ci " : " 24123212 " 
+    }
   ],
 }
